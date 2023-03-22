@@ -1,1 +1,1 @@
-# studentproject
+# customer application
